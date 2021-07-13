@@ -7,5 +7,7 @@ With this repo, i hope to make the dataset download easy and transparent for oth
 
 If you got another more useful download resource or error in the citation, please contact me!
 
+For more info of this dataset please look at the publication below.
+
 Original link: https://people.eecs.berkeley.edu/~jhoffman/domainadapt/#datasets_code
 Publication: Boqing Gong, Yuan Shi, Fei Sha, & Grauman, K. (2012). Geodesic flow kernel for unsupervised domain adaptation. 2012 IEEE Conference on Computer Vision and Pattern Recognition, 2066–2073. https://doi.org/10.1109/CVPR.2012.6247911 
